@@ -1,101 +1,169 @@
 # 🧠 Proof-of-Hustle (POH)
 
-> **Track your grind. Flex your proof. Own your journey.**  
-> A soulbound NFT protocol that transforms contributions into verifiable onchain credentials — now powered by **Hedera**.
+> **Verifying Hustle. Empowering Talent. Decentralizing Opportunity.**  
+> Proof-of-Hustle is a next-gen soulbound NFT protocol built to track, verify, and reward the grind of students, developers, and builders — with deep integration into the **Hedera** network and a mission to decentralize opportunity.
 
 ---
 
-## 🚀 What is POH?
+## 🌍 Why Proof-of-Hustle?
 
-**Proof-of-Hustle (POH)** is a soulbound NFT protocol that auto-updates based on real contributions — from GitHub commits to hackathon entries, course completions, and more.  
-It turns your **grind** into **onchain proof**, rewarding developers, students, and builders with a dynamic portfolio of achievements.
+Talent is everywhere, but opportunity is not.
 
-🔗 Powered by: **Hedera Hashgraph** — fast, secure, low-cost DLT for the future of onchain identity.
+Too many students — especially in Africa and underrepresented regions — are building, learning, and growing without recognition.  
+POH bridges that gap by offering **onchain verification of effort**, rewarding grit, learning, and contribution with dynamic, soulbound NFTs that evolve as you grow.
 
----
-
-## 🛠️ Core Features
-
-- ✅ Soulbound NFTs that **auto-update** with each verified achievement
-- 🎓 Tracks learning milestones, GitHub activity, and hackathon contributions
-- 💰 Financial incentives for students ($10–$1,000 per level)
-- 🧩 Hedera-based smart contracts + NFT minting
-- 🪪 Exportable onchain resumes & verifiable dev credentials
-- 🔒 Immutable reputation via **Proof-of-Grind Protocol**
-- 🧵 Multi-chain vision with Ethereum, BNB, and others to follow
+> Whether you're pushing code on GitHub, finishing online courses, or winning bounties — POH records it, verifies it, and puts your **proof-of-hustle** onchain.
 
 ---
 
-## 🌐 Why Hedera?
+## 🔗 Built on Hedera — By Design
 
-We're building POH on **Hedera** for its:
+POH is proud to integrate with **Hedera Hashgraph** for its unmatched performance and public-good ethos:
 
-- ✨ High throughput (10k+ TPS)
-- 💸 Ultra-low fees (fractions of a cent)
-- 🌱 Carbon-negative DLT
-- 🧠 Smart contract capabilities for SBT logic
-- 🛡️ Decentralized, enterprise-grade trust via the Hedera Governing Council
+- ✅ 10,000+ TPS — scalable enough for millions of students
+- 💸 Micro-fees — ideal for high-volume NFT minting
+- 🟢 Carbon-negative — a sustainable future for global builders
+- 🧠 Smart contracts — enabling dynamic soulbound NFT logic
+- 🛡️ Council governance — trusted, decentralized, and secure
 
----
-
-## 🎯 Vision
-
-> _1 million users verified through onchain hustle by 2026._
-
-POH will empower the next generation of Web3 devs — especially students in underserved regions — with:
-
-- 📚 Educational incentives
-- 💼 Job-ready portfolios
-- 🧠 Onchain reputation
-- 🌍 Global visibility
+Hedera isn’t just fast. It’s built for **real-world impact** — and so are we.
 
 ---
 
-## 📦 Architecture Overview
----
+## 🎓 Student-First Protocol
 
-## 📈 Incentive Structure
+Proof-of-Hustle is more than a project. It’s a **movement** to empower the next generation of builders — starting with **students who have no laptops, no degree, no network**, but **real ambition**.
 
-| Level | Milestone                        | Reward       |
-|-------|----------------------------------|--------------|
-| 1     | Signed up & connected wallet     | 🎉 Welcome NFT |
-| 2     | Completed 1st course             | $10          |
-| 3     | GitHub verified + 3 PRs merged   | $25          |
-| 4     | Built & shipped a project        | $100         |
-| 5     | Won a bounty or hackathon        | $500–$1,000  |
+POH is tailored for:
 
----
+- 👨🏾‍💻 Self-taught devs
+- 🧑🏽‍🏫 University & polytechnic students
+- 🧑🏿‍💻 Open-source contributors
+- 🧠 Learners from platforms like freeCodeCamp, Alchemy, Hedera Learn, and more
 
-## 💡 What's Next?
+We provide:
 
-- 🧱 MVP deployment on **Hedera Testnet**
-- 🧠 Finalize Proof-of-Grind Protocol (VPGP)
-- 🎨 UI for NFT dashboard and leaderboard
-- 📲 Mobile app integration
-- 💼 Partner onboarding: hackathons, DAOs, edtechs
+- 🧠 Soulbound NFT profiles that auto-update with verified learning & building
+- 💼 Onchain resumes & work credentials
+- 🤝 Reputation systems for grant applications, hackathon credibility, and DAO bounties
+- 🌍 Visibility in the global Web3 economy
 
 ---
 
-## 🤝 Support Our Mission
+## 🧩 Platform Highlights
 
-> We’re currently seeking grants, partnerships, and collaborators.  
-> Help us onboard the next million builders — starting from Africa to the world.
-
-Connect:  
-📧 Email: `iammohammerd@gmail.com`  Telegram: ‘iammohammerd'
-🐦 Twitter: [@TheLedgerGhost](https://twitter.com/TheLedgerGhost)
-
----
-
-## 🧪 Dev Notes
-
-- Smart contracts in Solidity (for EVM) & Hedera's HTS/NFT SDK
-- Explorer: Coming soon
-- Audit: Planned before mainnet launch
+| Feature                        | Description                                                                 |
+|-------------------------------|-----------------------------------------------------------------------------|
+| 🪪 Soulbound Hustle NFT       | Evolves based on GitHub, Devpost, course completions, and project history  |
+| 🔄 Auto-Updates               | Smart contracts verify and update achievements in real time                |
+| 🔒 Proof-of-Grind Protocol    | Tamper-proof record of your progress — no fake grind                      |
+| 🧑‍💻 Team Portfolios          | Students can join or form teams and showcase collective effort              |
+| 🧾 Exportable Onchain Resume  | Convert your NFT metadata into a readable, verifiable Web3 CV              |
+| 🏆 Leaderboards & Milestones  | Highlight top hustlers globally and by region                              |
+| 🔌 Multi-chain Ready          | Starting with Hedera; Ethereum, BNB, and Base in future                    |
 
 ---
 
-## 🛡️ License
+## 🎯 POH Levels (Progress Recognition Framework)
+
+POH doesn’t just reward users with flashy badges — it **verifies merit** and unlocks access to resources, grants, and opportunities.
+
+| Level | Criteria                            | Unlocks                                      |
+|-------|-------------------------------------|----------------------------------------------|
+| 0     | Wallet connection                   | SBT minted, welcome message                  |
+| 1     | First course completion             | Early builder role, resource access          |
+| 2     | GitHub linked, 3+ merged PRs        | Hustler tag, access to bounties              |
+| 3     | Project shipped (repo/live demo)    | Ecosystem perks, contributor listings        |
+| 4     | Hackathon or bounty participation   | Mentorship matchmaking, grant eligibility    |
+| 5     | Grant/fellowship accepted           | Mentor track, speaking invites, DAO rewards  |
+
+> 💡 *Some levels may unlock quiet financial incentives, ecosystem perks, or paid opportunities — but the goal is impact, not payouts.*
+
+---
+
+## 🏗️ Technical Architecture
+Smart contracts will use:
+
+- **Hedera Smart Contract Service (HSCS)** for minting, locking, and updating NFTs
+- **Metadata Oracles** to verify GitHub or learning APIs
+- **Event Hooks** for external dApps to read SBT states
+
+---
+
+## 🛣️ Roadmap
+
+### ✅ Phase 0 – Foundation (Complete)
+- Ideation, vision-setting
+- Grant research + pitch deck
+- Ethereum & Hedera protocol research
+
+### 🔄 Phase 1 – MVP (In Progress)
+- Hedera Smart Contract + NFT deployment
+- GitHub verifier (GitHub Actions + Oracles)
+- Soulbound mint + metadata update flow
+- Notion landing + content strategy
+
+### 🔜 Phase 2 – Ecosystem Rollout
+- Hedera Testnet launch
+- Onchain leaderboard
+- Mobile-first UI (Popsy / Fruition)
+- Wallet connection & course tracking
+
+### 🚀 Phase 3 – Growth Engine
+- Student ambassador program
+- Multi-chain expansion (BNB, Base)
+- DAO integration + bounties
+- Full launch with 10k early users
+
+---
+
+## 📊 Metrics of Impact (2025–2026 Goals)
+
+| Metric                  | Goal             |
+|-------------------------|------------------|
+| Onboarded students      | 1,000,000         |
+| Courses verified        | 10M+ completions  |
+| Projects submitted      | 250,000+          |
+| Hackathons connected    | 50+ events        |
+| Scholarships unlocked   | $500k+ in total   |
+
+---
+
+## 🌐 Who Should Join POH?
+
+- 🏛️ **Foundations & DAOs** — Fund and support verified builders with transparent proof
+- 👨‍🏫 **Educators** — Use POH to track and reward learning
+- 🧑‍💼 **Recruiters** — Source credible talent based on work, not resumes
+- 🧠 **Mentors** — Connect with real builders and rising talent
+- 🧑🏽‍💻 **Students & Hustlers** — Show the world what you’ve built
+
+---
+
+## 🤝 Partner With Us
+
+We're open to:
+
+- 🤝 Foundation & ecosystem grants
+- 🧠 Technical mentors and advisors
+- 💸 Strategic investors with long-term vision
+- 🎓 University, polytechnic, and online learning platform integrations
+- 🌍 Global impact partners — especially those focused on Africa & underserved builders
+
+📬 Contact:  
+**Muhammad Zakarai**  
+Email: `iammohammerd@gmail.com` 
+Telegram: ‘iammohammerd'
+Twitter: [@TheLedgerGhost](https://twitter.com/TheLedgerGhost)
+
+---
+
+## 📂 Resources
+
+- 📝 [Project Wiki](https://github.com/mohammerdzakari/Proof-of-Hustle/wiki)
+- 📄 Notion Page: [POH Overview](https://nine-earth-e7a.notion.site/Proof-of-hustle-23d246a82f5c80c486fbd5daa0fb64a4)
+- 📜 [plans Soon...]
+  -MIT
+  🛡 License
 
 MIT © 2025  
-_Proof-of-Hustle — All hustle, no shortcuts._
+_Proof-of-Hustle — Proof of Work. Proof of Worth. Proof of BNB 

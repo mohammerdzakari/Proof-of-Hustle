@@ -82,7 +82,7 @@ POH will empower the next generation of Web3 devs — especially students in und
 > Help us onboard the next million builders — starting from Africa to the world.
 
 Connect:  
-📧 Email: `mohammerdzakari@gmail.com`  
+📧 Email: `iammohammerd@gmail.com`  Telegram: ‘iammohammerd'
 🐦 Twitter: [@TheLedgerGhost](https://twitter.com/TheLedgerGhost)
 
 ---
